@@ -1,0 +1,11 @@
+node_modules
+keyfile.json
+Keyfile.json
+KeyFile.json
+keyFile.json
+images/*.*
+!images/.gitkeep
+metadata/*.*
+!metadata/.gitkeep
+originalJSON/*.*
+!originalJSON/.gitkeep
